@@ -1,0 +1,19 @@
+<data>
+    <AAA>
+        <CCC>
+            <BBB>33333This</BBB> ----&gt; the first BBB element
+        </CCC>
+        <CCC>  
+            <BBB>is</BBB>
+        </CCC>
+        <CCC>
+            <BBB>test1</BBB>
+        </CCC>
+    </AAA>
+
+    <AAA>
+        <CCC>
+            <BBB>33333This is test</BBB>
+        </CCC>
+    </AAA>
+</data>

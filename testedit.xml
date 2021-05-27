@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<data>
+    <AAA>
+        <CCC>
+            <BBB>This</BBB> ----> the first BBB element
+        </CCC>
+        <CCC>  
+            <BBB>is</BBB>
+        </CCC>
+        <CCC>
+            <BBB>test1</BBB>
+        </CCC>
+    </AAA>
+
+    <AAA>
+        <CCC>
+            <BBB>This is test</BBB>
+        </CCC>
+    </AAA>
+</data>
